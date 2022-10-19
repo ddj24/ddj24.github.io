@@ -2,9 +2,11 @@
 body {
   background-color: #23282e;
 }
+
 #word {
   color: #ffffff;
 }
+
 a:link {
   color: #ffffff;
   background-color: transparent;
